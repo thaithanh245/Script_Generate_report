@@ -1,0 +1,32 @@
+{
+    "file_dir":
+    {
+        "excel_template_test_report": 
+        {
+            "excel_dir": "Input\\???.xlsx",
+            "sheet_name_requirement_coverage": "Summary",
+            "sheet_requirement_coverage_title_row_num": 25,
+            "sheet_requirement_coverage_start_data_row_num": 26,
+            "sheet_name_test_report": "SW_Qualification_Test_Report",
+            "sheet_test_report_title_row_num": 1,
+            "sheet_test_report_start_data_row_num": 2
+        },
+        "excel_TRS_DOORS":
+        {
+            "excel_dir": "Input\\???.xlsx",
+            "sheet_name": "Sheet1",
+            "sheet_title_row_num": 1,
+            "sheet_start_data_row_num": 2
+        },
+        "excel_SWTS_DOORS":
+        {
+            "excel_dir": "Input\\???.xlsx",
+            "sheet_name": "Sheet1",
+            "sheet_title_row_num": 1,
+            "sheet_start_data_row_num": 2
+        },
+        "output": "Output",
+        "database": "Database",
+        "excel_test_report_output": "Output\\Daimler_4396_SW_QualificationTestReport_CR_E011_Release_00.74.00_C1_23113B_DTC_REPORT_updated.xlsx"
+    }
+}
